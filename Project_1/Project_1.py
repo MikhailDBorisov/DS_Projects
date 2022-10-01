@@ -1,4 +1,5 @@
-#Project_1: Guess a random number from 0 to 100 in 20 attempts or less
+#Project_1: Guess a random number
+#from 0 to 100 in 20 attempts or less
 import numpy as np
 
 def random_predict(number: int=np.random.randint(0,101)) -> int:

@@ -23,7 +23,7 @@ Array of 1000 random numbers from 0 to 100.
 - Obtain mean number of attempts to guess a number
 
 ### Results
-Algorithm guesses a number on average in 7 attempts.
+Algorithm guesses a number on average in 7 attempts
 
 ### Conclusion
 Project completed successfully since the mean number of attempts for the written program does not exceed 20.
