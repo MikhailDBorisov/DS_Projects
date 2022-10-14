@@ -1,6 +1,7 @@
 # Проект: Анализ Вакансий на Head Hunter
 ## Содержание:
 [1. Описание Проекта](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Проекта)
+
 [2. Considered Use Case](https://github.com/MikhailDBorisov/Skillfactory_DS_Projects/blob/main/Project_1/README.md#Considered-Use-Case)
 [3. Data Description](https://github.com/MikhailDBorisov/Skillfactory_DS_Projects/blob/main/Project_1/README.md#Data-Description)
 [4. Project Stages](https://github.com/MikhailDBorisov/Skillfactory_DS_Projects/blob/main/Project_1/README.md#Project-Stages)
