@@ -1,2 +1,2 @@
-# Skillfactory_DS_Projects
-Projects coded for passing skillfactory course assignments
+# DS_Projects
+Projects coded for training Data Science skills
