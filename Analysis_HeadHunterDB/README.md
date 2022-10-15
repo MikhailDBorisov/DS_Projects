@@ -3,13 +3,13 @@
 Ввиду размеров, файлы проекта добавлены на Google диск: [Google Drive Link - HH Project](https://drive.google.com/drive/folders/1oFd6Ew26czDNd6Slv_BK-BSlHtez1gVv?usp=sharing)
 
 ## Содержание:
-[1. Введение](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Проекта)
+[1. Введение](https://github.com/MikhailDBorisov/Skillfactory_DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Проекта)
 
-[2. Данные](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Данных)
+[2. Данные](https://github.com/MikhailDBorisov/Skillfactory_DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Данных)
 
-[3. Задачи Проекта](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Задачи-Проекта)
+[3. Задачи Проекта](https://github.com/MikhailDBorisov/Skillfactory_DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Задачи-Проекта)
 
-[4. Результаты и Заключение](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Результаты-и-Заключение)
+[4. Результаты и Заключение](https://github.com/MikhailDBorisov/Skillfactory_DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Результаты-и-Заключение)
 
 ### Описание Проекта
 Целью данного проекта является демонстрация навыков:
