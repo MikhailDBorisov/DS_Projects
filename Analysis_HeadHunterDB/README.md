@@ -9,9 +9,7 @@
 
 [3. Этапы Проекта](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Этапы-Проекта)
 
-[4. Результаты](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Заключение)
-
-[5. Заключение](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Заключение)
+[4. Результаты и Заключение](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Результаты-и-Заключение)
 
 ### Описание Проекта
 Целью данного проекта является демонстрация навыков:
