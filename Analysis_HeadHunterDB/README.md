@@ -7,7 +7,7 @@
 
 [2. Данные](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Данных)
 
-[3. Этапы Проекта](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Этапы-Проекта)
+[3. Задачи Проекта](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Задачи-Проекта)
 
 [4. Результаты и Заключение](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Результаты-и-Заключение)
 
