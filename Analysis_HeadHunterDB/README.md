@@ -1,6 +1,6 @@
 # Проект: Анализ Вакансий на Head Hunter
 ## Ссылка на проект:
-[Google Drive Link](https://drive.google.com/drive/folders/1oFd6Ew26czDNd6Slv_BK-BSlHtez1gVv?usp=sharing)
+Ввиду размеров, файлы проекта добавлены на Google диск: [Google Drive Link](https://drive.google.com/drive/folders/1oFd6Ew26czDNd6Slv_BK-BSlHtez1gVv?usp=sharing)
 
 ## Содержание:
 [1. Введение](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Проекта)
@@ -41,7 +41,7 @@
 - Дата обновления резюме
 - Наличие автомобиля
 
-База данных в необработаном формате доступна по ссылке [5. Данные hh.ru](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Заключение)
+База данных в необработаном формате доступна по ссылке на проект в папке data, файл dst-3.0_16_1_hh_database.csv. Также для анализа нам потребуются данные о курсах валют за период
 
 ### Этапы Проекта
 **Stages:**
