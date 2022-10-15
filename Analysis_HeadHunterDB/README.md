@@ -1,8 +1,8 @@
 # Проект: Анализ Вакансий на Head Hunter
 ## Содержание:
-[1. Описание Проекта](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Проекта)
+[1. Введение](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Проекта)
 
-[2. Описание Данных](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Данных)
+[2. Данные](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Данных)
 
 [3. Этапы Проекта](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Этапы-Проекта)
 
@@ -11,10 +11,29 @@
 [5. Заключение](https://github.com/MikhailDBorisov/DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Заключение)
 
 ### Описание Проекта
-Computer randomly chooses a number from 0 to 100. Then, computer randomly guesses this number returning how many attempts on average are required to guess it right.
+Целью данного проекта является демонстрация навыков:
+- Базового анализа структуры данных,
+- Преобразования данных,
+- Разведывательного анализа данных,
+- Визуализации взаимосвязей,
+- Очистки данных.
+
+В качестве базы данных для анализа мы будем использовать информацию о пользователях ищущих работу на сервисе для трудоустройства Head Hunter (https://hh.ru). 
 
 ### Описание Данных
-The task is to write a program that will guess a random number from 0 to 100 in less than 20 attempts.
+База данных содержит информацию о 44 744 пользователях сервиса Head Hunter. Ниже приведены признаки полученные из анкеты пользователей и в скобках указана структура типовых значений:
+- Пол, возраст (пол , возраст , дата рождения: "Мужчина ,  39 лет , родился 27 ноября 1979")
+- ЗП (заработная плата)
+- Ищет работу на должность
+- Город, переезд, командировки
+- Занятость
+- График
+- Опыт работы
+- Последнее/нынешнее место работы
+- Последняя/нынешняя должность
+- Оразование и ВУЗ
+- Обновление резюме
+- Авто
 
 ### Этапы Проекта
 **Stages:**
