@@ -1,6 +1,6 @@
 # Проект: Анализ Вакансий на Head Hunter
 ## Ссылка на проект:
-Ввиду размеров, файлы проекта добавлены на Google диск: [Google Drive Link - HH Project](https://drive.google.com/drive/folders/1oFd6Ew26czDNd6Slv_BK-BSlHtez1gVv?usp=sharing)
+Ввиду размеров, некоторые файлы проекта добавлены на Google диск: [Google Drive Link - HH Project](https://drive.google.com/drive/folders/1oFd6Ew26czDNd6Slv_BK-BSlHtez1gVv?usp=sharing)
 
 ## Содержание:
 [1. Введение](https://github.com/MikhailDBorisov/Skillfactory_DS_Projects/blob/master/Analysis_HeadHunterDB/README.md#Описание-Проекта)
